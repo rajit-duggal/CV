@@ -1,0 +1,105 @@
+body {
+  color: #40514e;
+  margin: 10px;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  position: relative;
+  color: green;
+}
+
+h1 {
+  color: brown;
+  font-size: 100px;
+  font-family: "Sacramento", cursive;
+
+  margin-top: 50px;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.pencil {
+  position: absolute;
+  left: 600px;
+  width: 5%;
+  float: left;
+}
+
+h2 {
+  padding-bottom: 10px;
+}
+.middlecontainer {
+  margin: 100px 0;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  margin-bottom: 300px;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  margin-top: ;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.tp {
+  color: red;
+}
+
+.write {
+  margin: auto;
+}
+.wings {
+  margin: auto;
+  float: left;
+
+  left: 1000px;
+}
+.spicy {
+  width: 7%;
+  margin: auto;
+  position: absolute;
+  float: right;
+  left: 500px;
+}
+.btn{
+
+  background: linear-gradient(to right,#196BCA ,#6433E0);
+  background-color: #196BCA;
+  color: #fff;
+  font-family: Trebuchet MS;
+  font-size: 18px;
+  font-weight: 800;
+  font-style: normal;
+  text-decoration: none;
+  padding: 14px 15px;
+  border: 0px solid #000;
+  border-radius: 10px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+ 
+.bottom-container {
+  background-color: orange;
+}
